@@ -1,4 +1,5 @@
 # DevOps-Project
 This is the project that i have develop with my classmates in my third year.
-<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/a25b977e-09d6-4d31-bd6a-f3027b351cd4" />
+<img width="2400" height="1600" alt="image (1)" src="https://github.com/user-attachments/assets/c68569a0-8bc1-477c-8ccc-291e696a1889" />
+
 [EcommerceFlow-Team-Report.pdf](https://github.com/user-attachments/files/22919970/EcommerceFlow-Team-Report.pdf)
